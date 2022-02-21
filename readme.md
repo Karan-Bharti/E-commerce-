@@ -1,4 +1,4 @@
-<h1 align="center">AutoDecore</h1>
+<h1 align="center">Walk Store</h1>
 <p align="center" >An e-commerce website for shoes and sneakers.</p>
 
 ---
