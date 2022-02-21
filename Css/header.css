@@ -1,0 +1,29 @@
+
+.header-holder{
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    width: 100%;
+    background-color: var(--primary-color);
+    box-sizing: border-box;
+}
+.header-component-icon,
+.header-component-button,
+.header-component{
+    text-decoration: none;
+    color: var(--black-color);
+}
+.header-component{
+    flex-grow: 1;
+}
+.search.input{
+    flex-grow: 1;
+    border-radius: 1rem;  
+    padding: 0.4rem;
+}
+.header-component:hover,
+.header-component-button:hover,
+.header-component-icon:hover{
+    color: var(--white-color);
+}
