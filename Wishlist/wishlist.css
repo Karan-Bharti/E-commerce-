@@ -1,0 +1,13 @@
+.wishlist-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    box-sizing: border-box;
+    padding: 2rem;
+    background-color: var(--background-color);
+}
+.wish-head{
+    text-align: center;
+}
