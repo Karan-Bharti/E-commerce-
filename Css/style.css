@@ -1,10 +1,18 @@
-@import url('/Css/header.css');
+@import url('header.css');
 @import url('/Css/content.css');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
 :root{
     font-family: 'Lobster', cursive;
     --primary-color:#8b5cf6;
     --white-color:white;
     --black-color:black;
     --background-color:#e2e8f0;
+    --gray-button: #9ca3af;
+    --error-color: #ef4444;
+    --warning-color: #fbbf24;
+    --success-color: #16a34a;
+    --unread-color: #f87171;
+    --overlay-color: #cbd5e1;
+    
 }
