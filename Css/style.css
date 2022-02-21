@@ -1,8 +1,10 @@
 @import url('/Css/header.css');
+@import url('/Css/content.css');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 :root{
     font-family: 'Lobster', cursive;
     --primary-color:#8b5cf6;
     --white-color:white;
     --black-color:black;
+    --background-color:#e2e8f0;
 }
